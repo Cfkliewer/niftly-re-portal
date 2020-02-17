@@ -1,0 +1,17 @@
+.table {
+    padding: 2em;
+}
+
+.thead-main {
+    background-color: white;
+    color: #b3b3b3;
+    font-weight: 300;
+}
+
+td.center-cell {
+    vertical-align: middle !important;
+}
+
+.table td, .table th {
+    border-top: none !important;
+}

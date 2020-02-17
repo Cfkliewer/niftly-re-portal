@@ -1,0 +1,15 @@
+.btn.focus, .btn:focus {
+    box-shadow: none !important;
+}
+
+.btn.active, .btn:active {
+    box-shadow: none !important;
+}
+
+.btn-secondary.focus, .btn-secondary:focus {
+    box-shadow: none !important;
+}
+
+.btn-secondary.active, .btn-secondary:active {
+    box-shadow: none !important;
+}

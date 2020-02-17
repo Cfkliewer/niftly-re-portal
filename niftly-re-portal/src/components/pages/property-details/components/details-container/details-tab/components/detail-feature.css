@@ -1,0 +1,54 @@
+.card:hover {
+    box-shadow: none;
+    
+}
+
+.fa-thumbs-down path {
+    stroke: #d9d9d9;
+    stroke-width: 35;
+  }
+
+.fa-thumbs-down.filled path {
+    stroke: #e60000;
+}
+
+.fa-thumbs-down.grey path {
+    stroke: #d9d9d9;
+}
+
+.fa-thumbs-up.grey path {
+    stroke: #d9d9d9;
+}
+  
+.fa-thumbs-up path {
+    stroke: #d9d9d9;
+    stroke-width: 35;
+}
+
+.fa-thumbs-up.filled path {
+    stroke: #00cc00; 
+}
+
+.btn-secondary {
+    border: none;
+}
+
+.btn-secondary:hover {
+    border: none;
+}
+
+.btn-secondary:focus {
+    box-shadow: none;
+}
+
+.btn-secondary.focus {
+    box-shadow: none;
+}
+
+.btn-secondary.active:focus {
+    box-shadow: none;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: none;
+}
